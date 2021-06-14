@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-	width: 960px;
+	width: 1200px;
 	padding: 0;
 }
 
@@ -66,7 +66,6 @@ footer .company-info li {
 }
 
 .main .container {
-	width: 1000px;
 	background: #fff;
 	padding: 20px;
 }
