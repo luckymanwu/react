@@ -8,7 +8,7 @@ React + TS
 UI: AntDesign + bootstrap
 后端：
 Springboot + mysql + redis + es + kafka 
-当下最热门的主流开发技术栈，适合后端新手快速入门学习
+当下最热门的主流开发技术栈，适合后端新手快速入门学习
 ## 架构思路：
 
 ### 整体开发逻辑：
